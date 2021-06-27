@@ -1,3 +1,3 @@
-from Code.MINOR_PROJECT_GUI import gui_maker
+from Code.project_UI import gui_maker
 
 gui_maker.main()
